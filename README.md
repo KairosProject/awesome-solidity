@@ -42,6 +42,8 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Solidity Workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
 - [Upgradable Contracts](https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88#.lhsir2mzo) - Medium article on writing upgradable contracts.
 - [EthereumDev.io](https://ethereumdev.io) - Complete tutorial from starting to writing complex smart contracts and DApps.
+- [Building the Zero Dollar Homepage](https://marmelab.com/blog/2016/05/20/blockchain-for-web-developers-in-practice.html)
+- [Smart contracts in a nutshell for hackers](https://blog.cloudboost.io/ethereum-smart-contracts-in-a-nutshell-for-hackers-64f357715791)
 
 #### Examples
 - [DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts) - Contracts for DAO-related data structures such as tokens.
@@ -51,6 +53,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html) - Contract examples from the official docs.
 - [solidity-examples](https://github.com/chriseth/solidity-examples) - Examples which provide a starting point for data structures such as heaps and queues.
 - [Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Common gotchas, pitfalls, limitations, and idiosyncrasies.
+- [Baby steps](https://github.com/Alexintosh/solidity-baby-steps)
 
 
 ## Libraries
